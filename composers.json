@@ -1,0 +1,79 @@
+[
+    {
+        "Fname": "Claude",
+        "Lname": "Debussy",
+        "BirthYear": 1862,
+        "BirthCountry": "France",
+        "BirthCity": "Saint-Germain-en-Laye",
+        "DeathYear": 1918,
+        "Era": "Late Romantic",
+        "Style": "Impressionist",
+        "NotableWorks": ["Clair de Lune", "La Mer", "Two Arabesques", "Syrinx", "l'Apres Midi d'un Faun"]
+    },
+    {
+        "Fname": "Edvard",
+        "Lname": "Grieg",
+        "BirthYear": 1843,
+        "BirthCountry": "Norway",
+        "BirthCity": "Bergen",
+        "DeathYear": 1904,
+        "Era": "Romantic",
+        "Style": null,
+        "NotableWorks": ["In the Hall of the Mountain King", "Morning Mood", "Piano Concerto No.1 in A minor", "Holberg Suite"]
+    },
+    {
+        "Fname": "Johann Sebastian",
+        "Lname": "Bach",
+        "BirthYear": 1685,
+        "BirthCountry": "Germany",
+        "BirthCity": "Eisenach",
+        "DeathYear": 1750,
+        "Era": "Baroque",
+        "Style": null,
+        "NotableWorks": ["Toccata and Fugue in D minor (BWV 565)", "Fugue in G minor (BWV 578)", "Ave Maria", "Jesu, Joy of Man's Desiring", "Goldberg Variations"]
+    },
+    {
+        "Fname": "Ludwig Van",
+        "Lname": "Beethoven",
+        "BirthYear": 1770,
+        "BirthCountry": "Germany",
+        "BirthCity": "Bonn",
+        "DeathYear": 1827,
+        "Era": "Classical/Romantic",
+        "Style": null,
+        "NotableWorks": ["Symphony No.5", "Symphony No.9", "Symphony No.3", "Fur Elise", "Moonlight Sonata"]
+    },
+    {
+        "Fname": "Philip",
+        "Lname": "Glass",
+        "BirthYear": 1937,
+        "BirthCountry": "United States of America",
+        "BirthCity": "Baltimore",
+        "DeathYear": null,
+        "Era": "20th Century/Modern",
+        "Style": "Minimalist",
+        "NotableWorks": ["Einstein on the Beach", "Mad Rush", "Music in Twelve Parts", "Satyagraha", "Metamorphosis"]
+    },
+    {
+        "Fname": "Wolfgang Amadeus",
+        "Lname": "Mozart",
+        "BirthYear": 1756,
+        "BirthCountry": "Austria",
+        "BirthCity": "Salzburg",
+        "DeathYear": 1791,
+        "Era": "Classical",
+        "Style": null,
+        "NotableWorks": ["Requiem", "The Magic Flute", "Symphony No.40", "Don Giovanni", "Piano Concerto No.21"]
+    },
+    {
+        "Fname": "Steve",
+        "Lname": "Reich",
+        "BirthYear": 1936,
+        "BirthCountry": "United States of America",
+        "BirthCity": "Broadway, New York",
+        "DeathYear": null,
+        "Era": "20th Century/Modern",
+        "Style": "Minimalist",
+        "NotableWorks": ["Music for 18 Musicians", "Different Trains", "Clapping Music", "Drumming", "Piano Phase"]
+    }
+]
