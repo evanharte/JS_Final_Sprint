@@ -64,10 +64,13 @@ fetch('./composers.json')
     console.log(notable_Works(5));
     document.getElementById("notableworks2").innerHTML = notable_Works(5);
 
+    // Loop through JSON data and print all to console
+    composer.forEach(composer => {
+      console.log(composer);
+    });
+
   })
   .catch(error => {
     // Handle any errors that occur while fetching the file
     console.error(error);
   });
-
-  
